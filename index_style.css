@@ -18,3 +18,11 @@ header{
   height:70px;
   background-color: transparent;
 }
+
+nav{
+  display: table;
+  margin:auto;
+  margin-top: 15px;
+  height: 40px;
+  background-color: green;
+}
