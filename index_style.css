@@ -6,7 +6,7 @@
 
 section#banner {
   width: 100%;
-  background-image: url();
+  background-image: url('http://zimbby.com/pictures/bg.png');
   background-attachment: contain;
   background-position: center;
   background-repeat: no-repeat;
